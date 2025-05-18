@@ -9,7 +9,7 @@ Aplicación web dinamica desarrollada en Java con conexion a base de datos, orie
 - [Estructura](#estructura)
 
 
-## Teconologías y conceptos utilizados
+## Tecnologías y conceptos utilizados
 - Java 8
 - Apache Tomcat
 - MySQL
